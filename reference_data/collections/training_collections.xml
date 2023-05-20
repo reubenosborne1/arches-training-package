@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Collection rdf:about="http://localhost:8000/00000000-0000-0000-0000-000000000005">
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/00000000-0000-0000-0000-000000000007"/>
+    </skos:member>
+    <skos:prefLabel xml:lang="en-us">{"id": "d8c622f6-e786-11e6-905a-475a5eee86f5", "value": "Resource To Resource Relationship Types"}</skos:prefLabel>
+  </skos:Collection>
+  <skos:Collection rdf:about="http://localhost:8000/0ab8acaf-84f0-4c99-8bd4-e52df83c72a2">
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/75dacd32-6016-44c2-841b-d6c8cb20eadb"/>
+    </skos:member>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/62821f24-3945-4c89-b8ad-02adc40537fb"/>
+    </skos:member>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/38371f98-7bce-457b-8ab9-a659445059a2"/>
+    </skos:member>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/bf247075-5ab6-4a3a-a10b-f893571ad3d2"/>
+    </skos:member>
+    <skos:prefLabel xml:lang="en">{"id": "b6a805a6-5665-4780-9dc7-f7fda4bd066c", "value": "Address Type"}</skos:prefLabel>
+  </skos:Collection>
+  <skos:Collection rdf:about="http://localhost:8000/aeead784-39fe-4cda-9237-00dfe2337e50">
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/c46961f4-884e-46c5-9c90-5590bad59802"/>
+    </skos:member>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/3cfc5aa3-f7ab-4996-a9ef-aa0a12e1b15b"/>
+    </skos:member>
+    <skos:prefLabel xml:lang="en">{"id": "7d8d475f-05ac-4df3-85a0-71435c14afc0", "value": "Unit of Height"}</skos:prefLabel>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/a3b7ade2-fbaf-42ba-bd74-6d17fa6b2ab0"/>
+    </skos:member>
+  </skos:Collection>
+  <skos:Collection rdf:about="http://localhost:8000/658c8d0f-d3ff-40de-aaf7-ae993110a735">
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/3cc36df5-81e5-461c-bdb7-1c2c9159027c"/>
+    </skos:member>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/556b6931-2b66-476b-8c66-13a942230001"/>
+    </skos:member>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/f3ae4d7f-7073-477f-8561-19c73dea22fd"/>
+    </skos:member>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/e3be5a4d-205c-4917-b90c-06ee3fe0fd4c"/>
+    </skos:member>
+    <skos:prefLabel xml:lang="en">{"id": "c8ea33b8-ed9b-4ba5-8d1b-c74ca007519b", "value": "Building Type"}</skos:prefLabel>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/140314e3-7909-4d24-915d-f0f878fe12a0"/>
+    </skos:member>
+  </skos:Collection>
+  <skos:Collection rdf:about="http://localhost:8000/2636f6bb-8864-41c9-9be6-ee31920e16ae">
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/841ba9f8-2348-43da-8f2c-fa40823037a2"/>
+    </skos:member>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/55126f09-7185-439f-9bae-be4633711cac"/>
+    </skos:member>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/377573f6-c479-499b-aa80-7fbaa33ee6ad"/>
+    </skos:member>
+    <skos:prefLabel xml:lang="en">{"id": "d2bce2fd-75d1-454c-b984-d9d7b5942c80", "value": "Material"}</skos:prefLabel>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/35d9ee71-dd0f-4b00-bbc0-a1b04a5412c3"/>
+    </skos:member>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/f94e5473-e8b2-4f94-9c54-c8ff629fcc7d"/>
+    </skos:member>
+  </skos:Collection>
+  <skos:Collection rdf:about="http://localhost:8000/2ace90bc-df7c-40c5-837c-40c1fa7dd868">
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/c33a5604-c055-4d59-9182-14dad6bbd123"/>
+    </skos:member>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/3df6a7d9-1f5a-4462-9aec-864aa25964f7"/>
+    </skos:member>
+    <skos:prefLabel xml:lang="en">{"id": "e78a7479-1e52-4e94-a040-3dd78788345e", "value": "Name Type"}</skos:prefLabel>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/4be0f109-0c33-4818-898a-33f32fd740f7"/>
+    </skos:member>
+    <skos:member>
+      <skos:Concept rdf:about="http://localhost:8000/4a2feb5a-9e12-468a-9c50-b912b56ad22d"/>
+    </skos:member>
+  </skos:Collection>
+</rdf:RDF>
